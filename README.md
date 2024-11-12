@@ -11,7 +11,7 @@ Download SPALB 2024 diagnostic model:
 
 Download SPALB 2024 model ensemble results:
 
-- The **[alb-2024-model-ensemble](https://github.com/PacificCommunity/ofp-sam-alb-2024-model-ensemble)** repository includes a **[alb-2024-model-ensemble-results.zip](https://github.com/PacificCommunity/ofp-sam-alb-2024-model-ensemble/releases/download/file/alb-2024-model-ensemble-results.zip)** file
+- The **[alb-2024-model-ensemble](https://github.com/PacificCommunity/ofp-sam-alb-2024-model-ensemble)** repository includes a **[alb-2024-model-ensemble-results.zip](https://github.com/PacificCommunity/ofp-sam-alb-2024-model-ensemble/releases/download/alb_2024_model_ensemble_results.zip/alb_2024_model_ensemble_results.zip)** file
 
 ## Uncertainty
 
