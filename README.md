@@ -26,7 +26,6 @@ The ensemble models are run from a par file, as described in the corresponding `
 
 The final par and rep files are consistently named `09.par` and `plot-09.par.rep` to facilitate harvesting results from across the 100 ensemble models.
 
-```
 ## Estimating uncertainty
 
 See also Section 8, Section 10.6 and Table 9 in the SPALB 2024 stock assessment [report](https://meetings.wcpfc.int/node/23119).
