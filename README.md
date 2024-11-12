@@ -20,7 +20,7 @@ estimation error for individual models:
 
 ## Model ensemble results
 
-The [alb-2024-model-ensemble-results.zip](https://github.com/PacificCommunity/ofp-sam-alb-2024-model-ensemble/releases/download/file/alb-2024-model-ensemble-results.zip) file contains all files necessary to run or browse the SPALB 2024 model ensemble.
+The [alb-2024-model-ensemble-results.zip](https://github.com/PacificCommunity/ofp-sam-alb-2024-model-ensemble/releases/download/alb-2024-model-ensemble-results.zip/alb-2024-model-ensemble-results.zip) file contains all files necessary to run or browse the SPALB 2024 model ensemble.
 
 The ensemble models are run from a par file, as described in the corresponding `doitall.sh` script.
 
